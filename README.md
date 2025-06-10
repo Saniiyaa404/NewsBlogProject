@@ -32,6 +32,7 @@ This project was created as part of my learning journey in web development. It h
 
 ![Max Subarray Optimization - Google Chrome 11-06-2025 03_06_11](https://github.com/user-attachments/assets/44789149-e29d-4a3b-8864-6c9933dcd1b9)
 ![News   Blogs - Personal - Microsoft​ Edge 11-06-2025 03_06_25](https://github.com/user-attachments/assets/3f0914c0-c04b-422a-aa76-14cf5f048744)
+![News   Blogs - Personal - Microsoft​ Edge 11-06-2025 03_14_39](https://github.com/user-attachments/assets/b676ae45-47d8-40f3-8c70-2257dffa558a)
 
 ## 🚀 How to Run
 
