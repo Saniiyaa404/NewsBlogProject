@@ -34,7 +34,7 @@ This project was created as part of my learning journey in web development. It h
 ![News   Blogs - Personal - Microsoft​ Edge 11-06-2025 03_06_25](https://github.com/user-attachments/assets/3f0914c0-c04b-422a-aa76-14cf5f048744)
 ![News   Blogs - Personal - Microsoft​ Edge 11-06-2025 03_14_39](https://github.com/user-attachments/assets/b676ae45-47d8-40f3-8c70-2257dffa558a)
 
-[Project link]{https://saniiyaa404.github.io/NewsBlogProject/}
+[Project link]{(https://saniiyaa404.github.io/NewsBlogProject/)}
 
 📚 Future Improvements
 1. Add CSS for styling and layout
